@@ -10,13 +10,12 @@ L’approche couvre l’ensemble du cycle de valorisation de la donnée : compr�
 
 ## Outils & Technologies
 
-* **Power BI** : modélisation des données, DAX, visualisations interactives
+* **Power BI** : power query, modélisation des données, DAX, visualisations interactives
 * **Shopify Data** : données transactions, clients, produits, paiements
-* **Git & GitHub** : versioning et documentation du projet
 
 ---
 
-## Structure du projet
+<!-- ## Structure du projet
 
 ```
 ├── data/                # Données Shopify nettoyées
@@ -26,7 +25,7 @@ L’approche couvre l’ensemble du cycle de valorisation de la donnée : compr�
 └── README.md            # Documentation du projet
 ```
 
----
+--- -->
 
 ## Aperçu du Dashboard
 
