@@ -43,8 +43,6 @@ Cette vue synthétise les indicateurs clés de performance comme décrit ci-apr�
 * **Net Average Order Value**
 * **Total Customers**
 
----
-
 ### Performance des transactions
 
 Analyse de la santé globale des ventes :
@@ -52,8 +50,6 @@ Analyse de la santé globale des ventes :
 * Évolution du chiffre d’affaires
 * Volume de commandes
 * Valeur moyenne par commande
-
----
 
 ### Comportement d’achat des clients
 
@@ -63,8 +59,6 @@ Segmentation des clients selon leur comportement :
 * **Repeat Customers**
 * Analyse de la fidélité et de l’engagement
 
----
-
 ### Fidélisation & valeur client
 
 Indicateurs long terme :
@@ -72,8 +66,6 @@ Indicateurs long terme :
 * **Customer Lifetime Value (LTV)**
 * **Repeat Rate**
 * **Purchase Frequency**
-
----
 
 ### Analyse géographique
 
@@ -88,14 +80,10 @@ Les visualisations sont **dynamiques** grâce à un **sélecteur de mesure** :
 * Total Customers
 * Repeat Customers
 
----
-
 ### Tendances temporelles
 
 * Évolution **journalière** des indicateurs
 * Analyse **horaire (0–23h)** pour identifier les pics d’activité
-
----
 
 ### Paiements & Produits
 
@@ -106,6 +94,8 @@ Les visualisations sont **dynamiques** grâce à un **sélecteur de mesure** :
 ---
 
 ### Vue détaillée & drill-through
+
+![Vue détaillée](images/Details.png)
 
 Page dédiée à l’exploration **granulaire** des données :
 
